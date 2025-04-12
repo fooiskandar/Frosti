@@ -3,14 +3,14 @@
 
 // Site title and description
 export const SITE_LANG = "zh";
-export const SITE_TAB = "零界ZeroEdge";
-export const SITE_TITLE = "零界ZeroEdge";
-export const SITE_DESCRIPTION = "ZeroEdge's personal blog";
+export const SITE_TAB = "L.J.Yinph";
+export const SITE_TITLE = "L.J.Yinph";
+export const SITE_DESCRIPTION = "L.J.Yinphの博客";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "零界ZeroEdge";
-export const USER_SITE = "https://zero-edge.netlify.app/"; // At the same time, this is also the site retrieved by the i18n configuration.
+export const USER_NAME = "L.J.Yinph";
+export const USER_SITE = "https://yinph.netlify.app/"; // At the same time, this is also the site retrieved by the i18n configuration.
 export const USER_AVATAR = "/profile.webp";
 
 // Server and transition settings
@@ -79,7 +79,7 @@ export const menuItems = [
 // Social media and contact icons
 export const socialIcons = [
   {
-    href: "https://github.com/Aurora-Yinph",
+    href: "https://github.com/L-J-Yinph",
     ariaLabel: "Github",
     title: "Github",
     svg: "ri:github-line",
