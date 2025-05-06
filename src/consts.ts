@@ -2,7 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Site title and description
-export const SITE_LANG = "zh";
+export const SITE_LANG = "en";
 export const SITE_TAB = "L.J.Yinph";
 export const SITE_TITLE = "L.J.Yinph";
 export const SITE_DESCRIPTION = "L.J.Yinphの博客";
